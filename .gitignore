@@ -3,3 +3,5 @@ gen/
 proguard/
 proguard-releases/
 .settings/
+.gradle/
+build/
